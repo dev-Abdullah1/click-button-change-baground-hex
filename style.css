@@ -1,0 +1,35 @@
+.button h1 {
+    font-size: 42px;
+    text-transform: capitalize;
+    font-weight: bolder;
+    color: #09ff00;
+    background: #343012;
+    
+
+}
+.button {
+    text-align: center !important;
+    margin-top: 20%;
+    align-items: center;
+    display: block;
+}
+
+.button a {
+    padding: 10px 34px;
+    font-size: 31px;
+    background: red;
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+    box-shadow: 1px 4px 2px #343012;
+    text-transform: capitalize;
+    cursor: pointer;
+   
+}
+.button a:hover{
+    background: white;
+    color: black;
+    border: 1px solid black;
+    text-transform: capitalize;
+}
+
